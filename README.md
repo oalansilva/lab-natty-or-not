@@ -89,9 +89,7 @@ Ajustes de humor, expressão final e timing da punchline para deixar o vídeo co
 Exemplos de Cenas Criadas:
 
 “Eu amo o meu pai, ele é o máximo!” — bebê sério e articulado, com timing de comédia perfeito
-
 “Tô cortando a internet pra ver se minha mãe faz comida” — cena absurda e viral
-
 “O ventilador pediu aposentadoria” — humor cotidiano em formato mini-adulto
 
 
@@ -101,13 +99,9 @@ Criar algo “natural” usando IA foi exatamente o objetivo deste projeto: enga
 O processo mostrou que:
 
 Prompt engineering é essencial para realismo facial;
-
 Não basta gerar vídeo — é preciso simular direção, câmera, luz e microgestos;
-
 A linha entre natty e fake natty está cada vez mais difícil de enxergar.
-
 Este projeto é uma prova clara de como as IAs Generativas podem produzir conteúdo de nível cinematográfico com apenas uma imagem e um texto.
-
 ```
 
 ### Exemplos e Insigths
